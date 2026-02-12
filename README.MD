@@ -63,6 +63,10 @@ This project allows users to manage daily expenses, track subscriptions, set mon
 
 ## ⚙️ Installation & Setup
 
+```bash
+pip install sqlalchemy
+python fintrack.py
+
 ### 1️⃣ Clone the repository
 
 ```bash
